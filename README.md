@@ -1,4 +1,4 @@
-```markdown
+
 #  Convertisseur Android - Température & Distance
 
 ##  Objectif
